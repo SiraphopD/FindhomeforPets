@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">920081646095498</string>
+    <string name="fb_login_protocol_scheme">fb920081646095498</string>
+    <string name="facebook_client_token">28ce8e43e8b969aa1d24a638dc8dc7f3</string>
+    <string name="notification_title">Hello world</string>
+<string name="notification_message">This is a message</string>
+</resources>

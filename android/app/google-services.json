@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473912632874",
+    "firebase_url": "https://findhomeforpets-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "findhomeforpets",
+    "storage_bucket": "findhomeforpets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473912632874:android:7738257f867ec4e1850553",
+        "android_client_info": {
+          "package_name": "com.example.findhomeforpets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473912632874-98qtfot3hfs781kavu4mtflstqgc202q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findhomeforpets",
+            "certificate_hash": "9689695ece54334008774f2904124864c880e306"
+          }
+        },
+        {
+          "client_id": "473912632874-gglhhj5n7iegc5ggarobv6jsirsr2esb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGwQZ-hseAskCA0DE1VpVb6woLftZ6iPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473912632874-gglhhj5n7iegc5ggarobv6jsirsr2esb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
